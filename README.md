@@ -1,6 +1,8 @@
 # MyRoom
 ## Here are some screenshots of the app
-<img src="localhost_62032_(Pixel 2).png" alt="neumorphicUI" height="500em />
+<img src="localhost_62032_(Pixel 2).png"
+     alt="Markdown Monster icon"
+     height="500em" />
              
 ## Created & Maintained By
 
